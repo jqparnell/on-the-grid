@@ -1,5 +1,12 @@
 /* styles.css */
-
+:root{
+	 /*CSS HEX */
+	--carbon-black: #1c1d21ff;
+	--dusty-mauve: #a288a6ff;
+	--lilac-ash: #bb9bb0ff;
+	--silver: #ccbcbcff;
+	--lavender-blush: #f1e3e4ff;
+}
 * {
 	font-family: Arial;
 }
