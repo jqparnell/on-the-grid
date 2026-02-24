@@ -7,6 +7,34 @@
 	--silver: #ccbcbcff;
 	--lavender-blush: #f1e3e4ff;
 }
+.gentium-plus-regular {
+  font-family: "Gentium Plus", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.gentium-plus-bold {
+  font-family: "Gentium Plus", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.gentium-plus-regular-italic {
+  font-family: "Gentium Plus", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.gentium-plus-bold-italic {
+  font-family: "Gentium Plus", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.mt-2 {
+  margin-top: (1rem * .5) !important;
+}
+
 * {
 	font-family: Arial;
 }
